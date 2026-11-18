@@ -11,4 +11,4 @@ Implementación en Java de la lógica de intercalación de bloques (`intercalarB
 
 1. **Clonar el repositorio:**
    ```bash
-   git clone https://github.com/alelwc2-dotcom/Estructura-de-Datos-Mezcla-Directa/blob/main/README.md
+   git clone [https://github.com/alelwc2-dotcom/Estructura-de-Datos-Mezcla-Directa.git](https://github.com/alelwc2-dotcom/Estructura-de-Datos-Mezcla-Directa.git)
